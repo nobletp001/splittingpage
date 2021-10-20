@@ -7,3 +7,4 @@ JAVASCRIPT
 addEventListener
 ClassList 
 add  and remove classes
+You can check out this site on this link https://splittingpage-nobletp.netlify.app
